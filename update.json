@@ -1,12 +1,12 @@
 {
-  "latestVersion": "2.3.2.2",
+  "latestVersion": "2.3.2.3",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.2.2.exe",
-  "sha256": "65504e0c7287cd2a0a8130196ae53c67d91feb370c8fcc72fb2db3e7349a1880",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.2.3.exe",
+  "sha256": "2f38bec8ca4416da108ab64bcb68eddd98d7617d0a4576768f67e2d6d71686ca",
   "changelog": [
-    "В «Кастомизации» можно настроить положение и размер погоды, музыки, быстрых кнопок и приложений.",
-    "Добавлен переключатель автозапуска Island 11 вместе с Windows.",
-    "Кнопки предыдущего и следующего трека получили анимацию нажатия."
+    "Исправлено смещение элементов после открытия кастомизации.",
+    "Стандартные настройки снова сохраняют привычное расположение островка.",
+    "Положение блоков теперь меняется только после выбора нового варианта."
   ],
   "history": [
     {
