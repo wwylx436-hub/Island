@@ -1,13 +1,19 @@
 {
-  "latestVersion": "2.2.0",
+  "latestVersion": "2.2.1",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.2.0.exe",
-  "sha256": "eef8c80d871d899f596e68f1767f37af67fe073f32a0b91ba21aae3d75928360",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.2.1.exe",
+  "sha256": "294c575b8ba420c734ce49d034eab62fd449bf5c4a1ccc2aa8112b42e161edfb",
   "changelog": [
-    "Добавлена кнопка «Скопировать область» с выбором фрагмента экрана.",
-    "Выделенный фрагмент сразу помещается в буфер обмена."
+    "Исправлен запуск инструмента «Скопировать область».",
+    "Версия в боковой панели настроек теперь совпадает с установленной версией Island 11."
   ],
   "history": [
+    {
+      "version": "2.2.0",
+      "changes": [
+        "Добавлена кнопка «Скопировать область» с выбором фрагмента экрана."
+      ]
+    },
     {
       "version": "2.1.1",
       "changes": [
