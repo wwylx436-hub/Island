@@ -1,12 +1,12 @@
 {
-  "latestVersion": "2.3.2.1",
+  "latestVersion": "2.3.2.2",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.2.1.exe",
-  "sha256": "75083c03fde4b4826eb2118e4d98ad4a4863c3c8b9e129ddc54cb53bc713a20d",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.2.2.exe",
+  "sha256": "65504e0c7287cd2a0a8130196ae53c67d91feb370c8fcc72fb2db3e7349a1880",
   "changelog": [
-    "Раздел «Приложения» переименован в «Кастомизация».",
-    "Можно скрывать или показывать все основные иконки островка и менять порядок программ.",
-    "Добавлена плавная анимация переключения между треками."
+    "В «Кастомизации» можно настроить положение и размер погоды, музыки, быстрых кнопок и приложений.",
+    "Добавлен переключатель автозапуска Island 11 вместе с Windows.",
+    "Кнопки предыдущего и следующего трека получили анимацию нажатия."
   ],
   "history": [
     {
