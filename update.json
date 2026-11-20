@@ -2,7 +2,7 @@
   "latestVersion": "2.3.0",
   "packagePath": "",
   "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.0.exe",
-  "sha256": "04a1dcd51f1ef385918f0e70cc5502d0187dd805a6fdfc43982c5f98d5f47dc6",
+  "sha256": "b020e019156e54f8c1bd182b1090245ccaa3234ae11600391bab5a3519f3b909",
   "changelog": [
     "Добавлена панель приложений под раскрытым островком.",
     "Можно добавлять значки программ, запускать их одним кликом и убирать правым кликом.",
