@@ -1,13 +1,21 @@
 {
-  "latestVersion": "2.2.1",
+  "latestVersion": "2.3.0",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.2.1.exe",
-  "sha256": "294c575b8ba420c734ce49d034eab62fd449bf5c4a1ccc2aa8112b42e161edfb",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.0.exe",
+  "sha256": "04a1dcd51f1ef385918f0e70cc5502d0187dd805a6fdfc43982c5f98d5f47dc6",
   "changelog": [
-    "Исправлен запуск инструмента «Скопировать область».",
-    "Версия в боковой панели настроек теперь совпадает с установленной версией Island 11."
+    "Добавлена панель приложений под раскрытым островком.",
+    "Можно добавлять значки программ, запускать их одним кликом и убирать правым кликом.",
+    "Исправлен запуск Island 11 при наличии другой копии в другой папке."
   ],
   "history": [
+    {
+      "version": "2.2.1",
+      "changes": [
+        "Исправлен запуск инструмента «Скопировать область».",
+        "Версия в боковой панели настроек теперь совпадает с установленной версией Island 11."
+      ]
+    },
     {
       "version": "2.2.0",
       "changes": [
