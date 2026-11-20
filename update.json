@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.3.2.0",
+  "latestVersion": "2.3.2.1",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.2.0.exe",
-  "sha256": "7c81a524d8fcb6bb48759ab60d9ee5f23f495e510db0639abe4b2843d00fc724",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.3.2.1.exe",
+  "sha256": "75083c03fde4b4826eb2118e4d98ad4a4863c3c8b9e129ddc54cb53bc713a20d",
   "changelog": [
     "Раздел «Приложения» переименован в «Кастомизация».",
     "Можно скрывать или показывать все основные иконки островка и менять порядок программ.",
