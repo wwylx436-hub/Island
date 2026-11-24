@@ -1,14 +1,20 @@
 {
-  "latestVersion": "2.4.4.5",
+  "latestVersion": "2.4.4.6",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.4.4.5.exe",
-  "sha256": "87f3f1731cb8e51d586ea578ded797ba3cc4ff5107dfcba032890449bbb5deb2",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.4.4.6.exe",
+  "sha256": "e2c7cf2d8d9449bc66c076aaf28708007c94f8e7109c32e80e78ba8d6a8d9306",
   "changelog": [
-    "При первом запуске островок предлагает регистрацию или вход по email.",
-    "Код подтверждения из письма можно ввести прямо в окне входа.",
-    "После входа сессия сохраняется и проверяется при следующем запуске."
+    "Убрана обязательная регистрация и вход при запуске островка.",
+    "Кнопка аккаунта удалена из раздела «Праздник»."
   ],
   "history": [
+    {
+      "version": "2.4.4.5",
+      "changes": [
+        "При первом запуске островок предлагал регистрацию или вход по email.",
+        "Код подтверждения из письма можно было ввести в окне входа."
+      ]
+    },
     {
       "version": "2.4.4.4",
       "changes": [
