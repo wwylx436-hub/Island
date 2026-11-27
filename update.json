@@ -1,9 +1,10 @@
 {
-  "latestVersion": "2.4.5",
+  "latestVersion": "2.4.5.2",
   "packagePath": "",
-  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.4.5.exe",
-  "sha256": "203fb687d702dfed91cfa959213dd8a3cfa2de8d2ef767c0fb62f27954c07ef7",
+  "downloadUrl": "https://raw.githubusercontent.com/wwylx436-hub/Island/main/releases/Island11-2.4.5.2.exe",
+  "sha256": "3bb7aba42583e5930fd709da8b1a510b9924b949211a21b31c5975972787fa66",
   "changelog": [
+    "Сборка переиздана под номером 2.4.5.2 для обновления с версии 2.4.5.",
     "Режим «Не беспокоить» скрывает уведомления Island.",
     "Во вкладке «Сегодня» внутри островка показывается время в активных приложениях.",
     "Игровой монитор и показ заряда устройств удалены.",
